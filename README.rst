@@ -1,5 +1,5 @@
 =========
-myproject
+Fun project name
 =========
 
 
